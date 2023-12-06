@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software Developer from Canada</h3>
 
 - 🔭 Work Experience:
+  - Incoming Software Developer Intern at RBC [Toronto, Winter & Summer 2024]
   - Quality Engineer Intern at TD Bank [Toronto, Summer 2023]
   - Software Developer Intern at Schema App [Guelph, Fall 2022]
  
