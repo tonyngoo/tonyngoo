@@ -6,11 +6,11 @@
   - Quality Engineer Intern at TD Bank [Toronto, Summer 2023]
   - Software Developer Intern at Schema App [Guelph, Fall 2022]
  
-- 🌱 I’m currently learning **React** and **Node.js**
+- 🌱 I’m currently learning **React**, **Node.js** and **Langchain**
 
-- 🤝 I’m looking for help with **Full Stack Development**
+- 🤝 I’m looking for help with **Full Stack Development** and **AI Development**
 
-- 💬 Ask me about **React & Full Stack Development**
+- 💬 Ask me about **React & AI Development**
 
 - 📫 How to reach me **tonyngoo.2002@gmail.com**
 
