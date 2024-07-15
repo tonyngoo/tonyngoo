@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software Developer from Canada</h3>
 
 - 🔭 Work Experience:
+  - Incoming Application Developer at CIBC [Toronto, Fall 2024 & Winter 2025]
   - Software Developer Intern at RBC [Toronto, Summer 2024]
   - Software Developer Intern at RBC [Toronto, Winter 2024]
   - Quality Engineer Intern at TD Bank [Toronto, Summer 2023]
