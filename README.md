@@ -5,8 +5,7 @@
 
 - 🔭 Work Experience:
   - Application Developer at CIBC Capital Markets [Toronto, Fall 2024 & Winter 2025]
-  - Software Developer Intern at RBC [Toronto, Summer 2024]
-  - Software Developer Intern at RBC [Toronto, Winter 2024]
+  - Developer Intern at RBC [Toronto, Winter 2024 & Summer 2024]
   - Quality Engineer Intern at TD Bank [Toronto, Summer 2023]
   - Software Developer Intern at Schema App [Guelph, Fall 2022]
  
