@@ -4,15 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyngoo&label=Profile%20views&color=0e75b6&style=flat" alt="tonyngoo" /> </p>
 
 - 🔭 Work Experience:
-  - Data Engineer at RBC Borealis [Toronto | Fall 2025 - Present]
-  - Software Developer Intern at CIBC Capital Markets [Toronto | Fall 2024, Winter 2025 & Summer 2025]
-  - Developer Intern at RBC [Toronto | Winter 2024 & Summer 2024]
-  - Quality Engineer Intern at TD Bank [Toronto | Summer 2023]
-  - Software Developer Intern at Schema App [Guelph | Fall 2022]
+  - Software Engineer at RBC Borealis [Toronto | September 2025 - Present]
+  - Software Developer Intern at CIBC Capital Markets [Toronto | September 2024 - August 2025]
+  - Software Developer Intern at RBC [Toronto | January 2024 - August 2024]
+  - Quality Engineer Intern at TD Bank [Toronto | May 2023 - August 2023 ]
+  - Software Developer Intern at Schema App [Guelph | September  2022 - December 2022]
  
-- 🌱 I’m currently learning **React**, **Node.js** and **Langchain**
+- 🌱 I’m currently learning **React**, **Node.js** and **Cloud**
 
-- 🤝 I’m looking for help with **Full Stack Development** and **AI Development**
+- 🤝 I’m looking for help with **Cloud** and **AI**
 
 - 💬 Ask me about **React & AI Development**
 
