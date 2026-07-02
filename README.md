@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyngoo&label=Profile%20views&color=0e75b6&style=flat" alt="tonyngoo" /> </p>
 
 - 🔭 Work Experience:
-  - Software Engineer at RBC Borealis [Toronto | September 2025 - Present]
+  - Senior Software Engineer at RBC Borealis [Toronto | April 2026 - Present]
+  - Software Engineer at RBC Borealis [Toronto | September 2025 - April 2026]
   - Software Developer Intern at CIBC Capital Markets [Toronto | September 2024 - August 2025]
   - Software Developer Intern at RBC [Toronto | January 2024 - August 2024]
   - Quality Engineer Intern at TD Bank [Toronto | May 2023 - August 2023 ]
